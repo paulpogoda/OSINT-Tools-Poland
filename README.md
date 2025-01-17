@@ -1,6 +1,8 @@
 # OSINT-Tools-Poland
 <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" alt="Poland_FLAG"/>
-A list of OSINT tools and resources that may be useful to you when conducting investigations related to Poland. Most of resources has versions in Polish only. Some tools are available in English. Based on https://github.com/9wind/OSINT-Poland
+A list of OSINT tools and resources that may be useful to you when conducting investigations related to Poland. Most of resources has versions in Polish only. Some tools are available in English. 
+
+Based on 9wind's [OSINT-Poland](https://github.com/9wind/OSINT-Poland)
 
 ## Table of content:
  - [Open Data portals](#open-data-portals)
