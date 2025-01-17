@@ -210,4 +210,4 @@ Based on 9wind's [OSINT-Poland](https://github.com/9wind/OSINT-Poland)
 - [Register of Prohibited Domains](https://www.rejestrdomenzakazanych.pl/)
 
 ## Contributions
-Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
