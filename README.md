@@ -55,6 +55,7 @@ Based on 9wind's [OSINT-Poland](https://github.com/9wind/OSINT-Poland)
 - [KRZ - National Register of Debtors](https://krz.ms.gov.pl/#!/application/KRZPortalPUB/1.4/KrzPortalPubGui.StronaGlowna?params=JTdCJTdE&seq=0)
 - [CEIDG - Database of entrepreneurs](https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx)
 - [Aleo | Companies Database](https://aleo.com/pl/)
+- [OpenRegistry](https://openregistry.sophymarine.com). Live KRS (National Court Register) records — search, officers, shareholders and filings pulled from the official register at query time, exposed over MCP for AI agents
 ### Debts
 - [Debt Exchange - Vindicat](https://vindicat.pl/gielda-dlugow/)
 - [Debtors Debt Exchange](https://gielda-dlugow.net/)
