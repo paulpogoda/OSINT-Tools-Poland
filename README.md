@@ -4,6 +4,8 @@ A list of OSINT tools and resources that may be useful to you when conducting in
 
 Based on 9wind's [OSINT-Poland](https://github.com/9wind/OSINT-Poland)
 
+![Last updated](https://img.shields.io/github/last-commit/paulpogoda/OSINT-Tools-Poland?label=Last%20updated)
+
 ## Table of content:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
