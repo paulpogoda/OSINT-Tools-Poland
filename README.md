@@ -185,6 +185,7 @@ Based on 9wind's [OSINT-Poland](https://github.com/9wind/OSINT-Poland)
 - [Szmer](https://szmer.info/)
 - [Queery](https://queer.pl/users)
 - [Wykop](https://wykop.pl/)
+- [twtData X Trends Archive: Poland](https://twtdata.com/twitter-trends/poland/). What trended on X (Twitter) in Poland on a given day, with a dated archive of past days. Free, no sign-up
 - [Cebulka. Polish .onion forum](http://cebulka7uxchnbpvmqapg5pfos4ngaxglsktzvha7a5rigndghvadeyd.onion/). Use TOR
 
 ### Dating Sites
